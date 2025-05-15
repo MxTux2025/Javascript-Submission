@@ -13,3 +13,4 @@ Kumpulan latihan untuk menguji pemahaman tentang dasar-dasar JavaScript
 
           Penggunaan typeof dan console.log().
 
+2.Submission2.js : Latihan mandiri tentang function (fungsi) pada bahasa pemrograman javascript seperti: Membuat dan menjalankan suatu fungsi. 
