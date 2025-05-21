@@ -1,4 +1,4 @@
-function hello(name, origin = 'Bandung') {
+function hello(name, origin = 'Moscow') {
 
    return `Halo! Nama saya ${name}. Saya tinggal di ${origin}.`;
    
